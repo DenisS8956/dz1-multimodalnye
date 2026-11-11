@@ -1,0 +1,22 @@
+{
+  "bug_variant_seed": 42,
+  "training_seed": 0,
+  "torch": "2.10.0+cpu",
+  "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.41",
+  "device": "cpu",
+  "cuda_available": false,
+  "config": {
+    "vocab_size": 19,
+    "context_size": 64,
+    "d_model": 128,
+    "n_heads": 4,
+    "n_layers": 2,
+    "d_ff": 512,
+    "dropout": 0.1
+  },
+  "parameter_count": 400640,
+  "steps": 600,
+  "loss_initial": 3.184384822845459,
+  "loss_final": 0.0368804894387722
+}
